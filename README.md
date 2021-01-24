@@ -1,0 +1,3 @@
+# Contacts
+
+Depends on pyinstaller
